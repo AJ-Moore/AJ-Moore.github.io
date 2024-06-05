@@ -1,5 +1,4 @@
 <body style="background-color:#2e2e2e">
-</style>
 </body>
 
 <div markdown="1" style="display:flex; font-size:16pt"><div markdown="1">Allan Moore </div><div markdown="1" style="margin-left:auto"> C++ | OpenGL | Unity </div></div>
