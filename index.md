@@ -1,12 +1,5 @@
 <body style="background-color:black; color:#8158ff">
 </body>
-<style>
-@media print {
-    body {
-        transform: scale(0.9);
-    }
-}
-</style>
 
 <div markdown="1" style="display:flex; font-size:16pt"><div markdown="1">Allan Moore </div><div markdown="1" style="margin-left:auto"> C++ | OpenGL | Unity </div></div>
 <div markdown="1" style="font-size:10pt">Senior Programmer Factory 42</div>
