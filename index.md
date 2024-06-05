@@ -24,6 +24,8 @@
 <div markdown="1" style="display:flex">
 <div markdown="1" style="flex-grow:1">
 
+<span style="font-size:12px;">
+
 I've been programming for around 18 years, 8 years of which I've spent developing commercially applications, experiences & games. At my most recent position, factory 42 I work as a senior programming developing mixed reality experiences and games for the meta quest.
 
 Our most recent game to release being Unearthed which is available on the meta quest store here: 
@@ -31,7 +33,7 @@ Our most recent game to release being Unearthed which is available on the meta q
 
 During my time as a developer I've worked with a mixture of technologies and fulfilled a number of roles from game development in Unity & Unreal, working on mixed reality games & gamified experiences for ar & vr devices such as the magic leap, meta quest 2, meta quest pro & mobile. Web & app development in react, javascript & cordova, Application development in OpenGL for android,iOS & UWP. Game/ application development for HTC's vive, CI/ CD pipelines & tools for commercial video games, both front end and back end devlopment developing REST apis, server infrastructure and network applications using sockets in c++, including TCP/ UDP solutions and even nat punchthrough, graphics & shader programming for visulisition and computer vision, as-well as a bit of compute shaders and genuinely many more technologies & languages. My passion is definitely more for game systems programming & graphics programming though I do also enjoy network programming. 
 
-In my spare time I like to work on my own personal projects some of my most notable projects to date being a Nintendo Entertainment System emulator I wrote in 2020 source on my github and a Physically Based Rendering engine in OpenGL & Vulkan I am still working on, this recently has spawned several new projects which are very early in development include a c++ network library and a new lua game framework and a bunch of other libraries which I am very excited about, some of which I intend to publish.
+</span>
 
 </div>
 <div markdown="1" style="width:30px; border-right: 3px dotted #437;"></div>
@@ -72,6 +74,29 @@ Temple of Invention (AR Experience - Android)<br/>
 <div markdown="1" style="display:flex"> <div markdown="1"><b>Software Developer, Softpauer</b></div><div markdown="1" markdown="1"style="margin-left:auto"> Mar 2016 - mar 2019 (3y) </div> </div>
 
 </div>
+<div style="display:flex">
 
-### Education 
+<div style="max-width:180px; min-width:180px; border-right: 3px dotted #437;">
+
+</div>
+
+
+<div style="margin:10px">
+
+<b> Hobbies </b>  
+
+---
+<span style="font-size:12px;">
+In my spare time I like to work on my own personal projects some of my most notable projects to date being a Nintendo Entertainment System emulator I wrote in 2020 source on my github and a Physically Based Rendering engine in OpenGL & Vulkan I am still working on, this recently has spawned several new projects which are very early in development include a c++ network library and a new lua game framework and a bunch of other libraries which I am very excited about, some of which I intend to publish.
+</span>
+
+</div>
+</div>
+
+<div style="border: 3px dotted #437; padding:10px">
+
+<b> Education </b>
+
+---
 <div markdown="1" style="display:flex"> <div markdown="1"><b>Buckinghamshire New University, BSc Games Development</b></div><div markdown="1" markdown="1"style="margin-left:auto"> 2011 - 2014 (3y) </div> </div>
+</div>
