@@ -17,14 +17,13 @@
 <div markdown="1" style="flex-grow:1"><b>Profile</b></div> 
 <div markdown="1" style="max-width:180px; min-width:180px"> <b>Key Skills</b> </div> 
 </div>
-<div markdown="1" style="border-bottom: 3px dotted #437;"></div>
-<br/>
+<div markdown="1"></div>
 
 
-<div markdown="1" style="display:flex">
-<div markdown="1" style="flex-grow:1">
+<div markdown="1" style="display:flex; border-top: 3px dotted #437;">
+<div markdown="1" style="flex-grow:1; padding:10px;">
 
-<span style="font-size:12px;">
+<span style="font-size:12px; ">
 
 I've been programming for around 18 years, 8 years of which I've spent developing commercially applications, experiences & games. At my most recent position, factory 42 I work as a senior programming developing mixed reality experiences and games for the meta quest.
 
