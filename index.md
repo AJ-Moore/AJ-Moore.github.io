@@ -86,7 +86,7 @@ Temple of Invention (AR Experience - Android)<br/>
 
 ---
 <span style="font-size:12px;">
-In my spare time I like to work on my own personal projects some of my most notable projects to date being a Nintendo Entertainment System emulator I wrote in 2020 source on my github and a Physically Based Rendering engine in OpenGL & Vulkan I am still working on, this recently has spawned several new projects which are very early in development include a c++ network library and a new lua game framework and a bunch of other libraries which I am very excited about, some of which I intend to publish.
+In my spare time I like to work on my own personal projects some of my most notable projects to date being a Nintendo Entertainment System emulator I wrote in 2020 source on my github and a Physically Based Rendering engine in OpenGL & Vulkan I am still working on, this recently has spawned several new projects which are very early in development including a c++ network library and a new lua game framework and a bunch of other libraries which I am very excited about, some of which I intend to publish.
 </span>
 
 </div>
