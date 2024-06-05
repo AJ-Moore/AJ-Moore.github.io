@@ -6,9 +6,9 @@
 
 <hr style="border: 3px dotted #437;">
 <div markdown="1" style="display:flex; flex-grow:1; flex-wrap:wrap">
-<span style="font-size:8pt; padding:2px; flex-grow: 1; color: #FF4500;">LinkedIn: <a style="color: #7DF9FF" href="https://www.linkedin.com/in/allan-moore/">https://www.linkedin.com/in/allan-moore/</a></span>   
-<span style="font-size:8pt;padding:2px; flex-grow: 1; color: #FF4500;">Website: <a style="color: #7DF9FF" href="https://allan-moore.squarespace.com/">https://allan-moore.squarespace.com/</a></span>   
-<span style="font-size:8pt;padding:2px; flex-grow: 1; color: #FF4500;">Github: <a style="color: #7DF9FF" href="https://github.com/AJ-Moore">https://github.com/AJ-Moore</a></span>
+<span style="font-size:8pt; padding:2px; flex-grow: 1; color: white;">LinkedIn: <a style="color: orange" href="https://www.linkedin.com/in/allan-moore/">https://www.linkedin.com/in/allan-moore/</a></span>   
+<span style="font-size:8pt;padding:2px; flex-grow: 1; color: white;">Website: <a style="color: orange" href="https://allan-moore.squarespace.com/">https://allan-moore.squarespace.com/</a></span>   
+<span style="font-size:8pt;padding:2px; flex-grow: 1; color: white;">Github: <a style="color: orange" href="https://github.com/AJ-Moore">https://github.com/AJ-Moore</a></span>
 </div>
 
 <hr style="border: 3px dotted #437;">
@@ -26,8 +26,13 @@
 
 I've been programming for around 18 years, 8 years of which I've spent developing commercially applications, experiences & games. At my most recent position, factory 42 I work as a senior programming developing mixed reality experiences and games for the meta quest.
 
-Our most recent game to release being Unearthed which is available on the meta quest store here
+Our most recent game to release being Unearthed which is available on the meta quest store here: 
 <a src="https://www.meta.com/en-gb/experiences/6894518023998298/"> Unearthed </a>
+
+During my time as a developer I've worked with a mixture of technologies and fulfilled a number of roles from game development in Unity & Unreal, working on mixed reality games & gamified experiences for ar & vr devices such as the magic leap, meta quest 2, meta quest pro & mobile. Web & app development in react, javascript & cordova, Application development in OpenGL for android,iOS & UWP. Game/ application development for HTC's vive, CI/ CD pipelines & tools for commercial video games, both front end and back end devlopment developing REST apis, server infrastructure and network applications using sockets in c++, including TCP/ UDP solutions and even nat punchthrough, graphics & shader programming for visulisition and computer vision, as-well as a bit of compute shaders and genuinely many more technologies & languages. My passion is definitely more for game systems programming & graphics programming though I do also enjoy network programming. 
+
+In my spare time I like to work on my own personal projects some of my most notable projects to date being a Nintendo Entertainment System emulator I wrote in 2020 source on my github and a Physically Based Rendering engine in OpenGL & Vulkan I am still working on, this recently has spawned several new projects which are very early in development include a c++ network library and a new lua game framework and a bunch of other libraries which I am very excited about, some of which I intend to publish.
+
 </div>
 <div markdown="1" style="width:30px; border-right: 3px dotted #437;"></div>
 <div markdown="1" style="max-width:200px; min-width:200px">
