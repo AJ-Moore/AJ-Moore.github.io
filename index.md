@@ -1,12 +1,6 @@
-<body>
-  <style
-  type="text/css">
-body {background-color:#2e2e2e;}
+<body style="background-color:#2e2e2e">
 </style>
 </body>
-
-
-
 
 <div markdown="1" style="display:flex; font-size:16pt"><div markdown="1">Allan Moore </div><div markdown="1" style="margin-left:auto"> C++ | OpenGL | Unity </div></div>
 <div markdown="1" style="font-size:10pt">Senior Programmer Factory 42</div>
